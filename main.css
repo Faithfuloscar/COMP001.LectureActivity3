@@ -1,0 +1,12 @@
+nav{
+    float: left;
+    width: 10%;
+}
+main{
+    float: left;
+    width: 65%;
+}
+aside{
+    float: left;
+    width: 25%;
+}
